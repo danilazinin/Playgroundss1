@@ -3,5 +3,9 @@
     <pages>
         <page name='Homework2.task1'/>
         <page name='Homework2.task2'/>
+        <page name='Homework3.task1'/>
+        <page name='Homework3.task2'/>
+        <page name='Homework4'/>
+        <page name='Homework3.task3'/>
     </pages>
 </playground>
